@@ -1,7 +1,5 @@
 import { DbzService } from './../services/dbz.service';
-import { Component, Input } from '@angular/core';
-
-import { Personaje } from '../interfaces/dbz.interface';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-personajes',
